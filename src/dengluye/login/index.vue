@@ -5,7 +5,7 @@
 
  <div class="con-login">
 <el-form :label-position="labelPosition" label-width="80px">
-    <h1 class="title">登录</h1>
+    <h1 class="title">登录1</h1>
   <el-form-item label="用户名">
     <el-input v-model="username"></el-input>
   </el-form-item>
